@@ -2,7 +2,7 @@
 
 This is a repository containing my group's assets from our AP Computer Science A Final Project.
 
-The game is far from complete and has a ton of bugs. I would treat it more as a demonstration of our development team's wonderful pixel art and as a potential base for future projects.
+Short beat 'em up style game set in a dungeon. You play as a thief, searching the underground for loot, but instead run into a slime-infested vault.
 
 ### Thanks for visiting our repo!
 
